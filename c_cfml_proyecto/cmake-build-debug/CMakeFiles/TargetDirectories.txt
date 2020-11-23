@@ -1,0 +1,3 @@
+C:/Users/Huawei D14/Desktop/c_cfml_proyecto/cmake-build-debug/CMakeFiles/c_cfml_proyecto.dir
+C:/Users/Huawei D14/Desktop/c_cfml_proyecto/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Huawei D14/Desktop/c_cfml_proyecto/cmake-build-debug/CMakeFiles/rebuild_cache.dir

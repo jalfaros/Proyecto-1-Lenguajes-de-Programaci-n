@@ -1,0 +1,5 @@
+"D:\Aplicaciones\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "C:\Users\Huawei D14\Desktop\c_cfml_proyecto"
+-- Found SFML 2.5.1 in C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/lib/cmake/SFML
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Huawei D14/Desktop/c_cfml_proyecto/cmake-build-debug
